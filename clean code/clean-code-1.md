@@ -1,7 +1,7 @@
-##Clean Code 1
+## Clean Code 1
 About chapter 1 and chapter 2
 
-###chapter 1
+### chapter 1
 1. 5S哲学/管理原则——日本TMP(Total Productive Maintenance,全员生产维护)的主要支柱之一。TMP，一种质量保证手段，关注维护甚于关注生产
 + 清理(Seiri)，或谓组织(sort)。搞清楚事物之所在——通过恰当地命名之类的手段
 + 整顿(Seiton)，或谓整齐。物皆有其位，而后物尽归其位(A place for everything, and everything in its place)。每段代码都应在你希望它在的地方——如果不在，那就需要重构
